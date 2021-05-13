@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoronaSafety</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel Description</string>
+</resources>
